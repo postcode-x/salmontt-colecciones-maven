@@ -23,6 +23,8 @@ src/
 ├── data/        # Clase de servicio para manejo de cargas de archivos y consultas dentro de listas
 ├── model/       # Clases de dominio (CentroCultivo, Region)
 ├── utils/       # Utilidades y validaciones
+
+resources/       # Fuentes de datos .TXT y XLSX
 ````
 
 ---
