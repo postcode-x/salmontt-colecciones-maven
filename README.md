@@ -11,7 +11,7 @@
 ---
 
 ## Descripción general del sistema
-El proyecto consiste en una aplicacion Java orientada a la gestion de informacion de centros de cultivo. Su objetivo es cargar datos externos (TXT o Excel), almacenarlos en estructuras de colecciones y permitir su consulta mediante distintos filtros. La aplicación esta organizada en paquetes separados segun su responsabilidad, lo que facilita la lectura y el mantenimiento del código. EL proyecto utiliza Maven.
+El proyecto consiste en una aplicación Java orientada a la gestión de información de centros de cultivo. Su objetivo es cargar datos externos (TXT o Excel), almacenarlos en estructuras de colecciones y permitir su consulta mediante distintos filtros. La aplicación está organizada en paquetes separados según su responsabilidad, lo que facilita la lectura y el mantenimiento del código. EL proyecto utiliza Maven.
 
 ---
 
