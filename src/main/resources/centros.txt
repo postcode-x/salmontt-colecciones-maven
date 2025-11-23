@@ -1,0 +1,5 @@
+Isla Huar;Calbuco;1200;Region de Los Lagos
+Punta Redonda;Hualaihué;980;Region de Los Lagos
+Chinquihue;Puerto Montt;1500;Region de Los Lagos
+Quellón Norte;Quellón;1750;Region de Los Lagos
+Chaicas;Puerto Varas;820;Region de Los Lagos
